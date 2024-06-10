@@ -1,0 +1,6 @@
+.devenv
+requests
+.venv
+.vscode
+.envrc
+package
