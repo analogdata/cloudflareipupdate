@@ -4,3 +4,4 @@ requests
 .vscode
 .envrc
 package
+cloudflarefunction.zip
